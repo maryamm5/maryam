@@ -1,0 +1,84 @@
+body{
+
+    background-color:rgb(255, 255, 255)
+}
+h1{
+    text-align: center;
+}
+div.parnt1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1fr 1fr ;
+    justify-content: center;
+}
+p {
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500px;
+}
+div.nav{
+    font-size: 100%;
+    text-align: center;
+    color: #000000;
+    box-shadow: 0px 4px 32px 12px rgba(0,0,0,0.1);
+    }
+    div.nav a{
+        margin: 30px;
+    }
+    hr{
+        display: inline-block;
+        width: 10%;
+    }
+    a.three{
+        font-size: 200%;
+        color: rgb(136, 184, 233);
+    }
+    div.child1{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    text-align:  center;
+    }
+    div.child2{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child3{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child4{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child5{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child6{
+        border: 6ch;
+    box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child7{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child8{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child9{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child10{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child11{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
+    div.child12{
+        border: 6ch;
+        box-shadow: 25px 32px 62px 6px rgba(0,0,0,0.1);
+    }
